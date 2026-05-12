@@ -1,0 +1,49 @@
+day,slot,subject,teacher,classroom,batch,department
+Mon,08:25-09:15,Maths,A. Sharma,101,B1,CSE
+Mon,09:15-10:05,DBMS,Anjali Awasthi,008,B1,CSE
+Mon,10:05-10:55,DAA,Sunny Kumar,202,B2,CSE
+Mon,10:55-11:45,Signal and System,Pappu Kumar,403,B1,CSE
+Mon,11:45-12:35,Data Science,Hemant Kumar,410,B1,CSE
+Mon,12:35-13:25,LUNCH BREAK,,,,,
+Mon,13:25-14:15,Office Hour,,,,,
+Mon,14:15-15:05,Principle of Management,Mayank Srivastava,410,B1,CSE
+
+day,slot,subjects,teacher,classroom,batch,department
+Tue,08:25-09:15,Soft Skills,Nidhi,410,B1,CSE
+Tue,09:15-10:05,OOP,Farheen Siddiqui,405,B1,CSE
+Tue,10:05-10:55,Aptitude & Reasoning,Hemant Kumar,202,B1,CSE
+Tue,10:55-11:45,Computer Graphics,Sarvesh Yadav,405,B1,CSE
+Tue,11:45-12:35,Principle of Management,Mayank Srivastava,405,B1,CSE
+Tue,12:35-13:25,LUNCH BREAK,,,,,
+Tue,13:25-14:15,Office Hour,,,,,
+Tue,14:15-15:05,Data Structures,E. Rao,410,B1,CSE
+
+day,slot,subjects,teacher,classroom,batch,department
+Wed,08:25-09:15,DBMS,Anjali Awasthi,202,B1,CSE
+Wed,09:15-10:05,DAA,Sunny Kumar,405,B1,CSE
+Wed,10:05-10:55,Signal and System,Pappu Kumar,407,B1,CSE
+Wed,10:55-11:45,Data Science,Hemant Kumar,410,B1,CSE
+Wed,11:45-12:35,OOP,Farheen Siddiqui,410,B1,CSE
+Wed,12:35-13:25,LUNCH BREAK,,,,,
+Wed,13:25-14:15,Office Hour,,,,,
+Wed,14:15-15:05,Networking,K. Verma,410,B1,CSE
+
+day,slot,subjects,teacher,classroom,batch,department
+Thu,08:25-09:15,DBMS,Anjali Awasthi,202,B1,CSE
+Thu,09:15-10:05,Computer Graphics,Sarvesh Yadav,203,B1,CSE
+Thu,10:05-10:55,Data Science,Hemant Kumar,405,B1,CSE
+Thu,10:55-11:45,DAA,Sunny Kumar,202,B1,CSE
+Thu,11:45-12:35,OOP,Farheen Siddiqui,204,B1,CSE
+Thu,12:35-13:25,LUNCH BREAK,,,,,
+Thu,13:25-14:15,Office Hour,,,,,
+Thu,14:15-15:05,DBMS Lab,S. Yadav,L3,B1,CSE
+
+day,slot,subjects,teacher,classroom,batch,department
+Fri,08:25-09:15,DBMS,Anjali Awasthi,202,B1,CSE
+Fri,09:15-10:05,Computer Graphics,Sarvesh Yadav,202,B1,CSE
+Fri,10:05-10:55,Signal and System,Pappu Kumar,405,B1,CSE
+Fri,10:55-11:45,Data Science,Hemant Kumar,410,B1,CSE
+Fri,11:45-12:35,OOP,Farheen Siddiqui,410,B1,CSE
+Fri,12:35-13:25,LUNCH BREAK,,,,,
+Fri,13:25-14:15,Office Hour,,,,,
+Fri,14:15-15:05,Programming,S. Verma,410,B1,CSE
